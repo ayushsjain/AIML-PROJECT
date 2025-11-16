@@ -1,0 +1,12 @@
+flask==2.2.5
+flask-socketio==5.3.3
+python-socketio==5.9.0
+eventlet==0.33.3
+ultralytics==8.3.25
+tensorflow==2.17.0
+tensorflow-hub==0.16.1
+opencv-python==4.11.0.86
+numpy==1.26.4
+pillow==12.0.0
+moviepy==2.2.1
+pygame==2.6.1   # only if you want to keep local pygame UI; not required server-side
